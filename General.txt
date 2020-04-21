@@ -1,1 +1,26 @@
-patatas con queso
+As of 20/04/2020:
+- Kyle said that his parents bought him a new computer.
+- The computer is unpacked and at the side of his bed when he wakes up, he asks his parents, they don't know nothing about a new PC.
+- Kyle uploaded two videos.
+- In those videos we got "anomalies", from what we could understand:
+Video 1: "my review of carbonos"
+
+ · Everytime Kyle says "carbonos" it gltiches the audio.
+ · 1:13     // Kopi - Kyle doesn't have admin password. Seems to be fixed on new version 1.3.
+ · 1:52     // Carbo Defender App - Kyle tries to open the carbo defender, but he gets an error code: Error 1798-29: Law CA Not Found. (Strange since the error pops up even before Kyle clicks on the icon.)
+ · 2:50-2:53     // A 'click' sounds. Probably Kyle's bottle, probably not. It sounds like a "RECORDING" click.
+ · 3:43-3:52     // We got sounds meanwhile Kyle talks. If slowed down and reverted we got: "#### s e e m e". We can't confirm what the first word is but we think it's "BOBBY".
+ · At the end of the video we got a slowdown and a screeching sound, we thought it was a spectrogram, but that's not the case.
+Video 2: "my second review of carbonos"
+
+ · System updated to 1.3 and it's 00:50 AM
+ · 1:00     // Carbo Defender App - Same error as before: Error 1798-29: Law CA Not Found.
+ · 1:30     // New App, Carbo Contacts:
+   · Little Bro (Blue) [786-5934-42811]
+   · Mom (Pink) [954-23817-44814]
+   · Nicolas (Pink) [754-38154-48913]
+ · 3:05-3:27     // Camera changes. Now we're looking at Kyle from his back.
+ · 4:15-4:28     // When Kayle writes "help" on the command line, all turns black, a camera shutter sounds and then a black screen.
+ · 6:00     // Kyle asks "Who am I?". Audio is slowed down and screen turns black for a few seconds.
+ · 6:55     // When Kyle opens the "Terms and conditions" app, an app with an eye on the image opens at the bottom right on the screen apart from the normal terminal icon. It disappears when Kyle says "Okay guys, that's it."
+ · 7:20     // The audio slows down. If we put it at 500% we can listen how it says something like "". After that, "Nothing to Hide", from the group "Yo la tengo" starts playing, but quickly fades into noise.
